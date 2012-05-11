@@ -1,12 +1,12 @@
 {% extends "base.html" %}
 
-{% block heaer %}
+{% block header %}
     <h1 class="article-title">
         <a href="{{ pagename }}" rel="bookmark" title="Permalink to {{ article.title }}">{{ article.title }}</a>
     </h1>
-{% endblock heaer %}
+{% endblock header %}
 
-{% block page %}
+{% block main %}
 <section id="article">
     <article>
         {{ article.content }}
@@ -16,4 +16,4 @@
         {% include 'twitter.html' %}
     </div>
 </section>
-{% endblock page %}
+{% endblock main %}
