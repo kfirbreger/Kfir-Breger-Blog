@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block heaer %}
+    <h1 class="article-title">
+        <a href="{{ pagename }}" rel="bookmark" title="Permalink to {{ article.title }}">{{ article.title }}</a>
+    </h1>
+{% endblock heaer %}
+
+{% block page %}
+<section id="article">
+    <article>
+        {{ article.content }}
+    </article>
+    {% include 'tag_list.html' %}
+    <div class="share">
+        {% include 'twitter.html' %}
+    </div>
+</section>
+{% endblock page %}
