@@ -1,0 +1,11 @@
+Title:99 days
+Date: 2007-10-23 11:18:58
+Tags: Me, travel
+
+Not a lot of time, as we are still in the getting-it-all-ready madness. This
+last week has been all about preparations, and we are still hard pressed to
+finish everything. One way or another in a few hours Paula and me will be
+sitting in the plane, heading to the far east, and what we didnt get done,
+well nothing to do about it. The first day in our 99 day exploration of the
+east.
+

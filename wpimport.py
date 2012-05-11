@@ -13,7 +13,7 @@ from urllib import urlretrieve
 
 
 # Saving dir
-base_dir = 'export' # Change to content for live
+base_dir = 'src' # Change to content for live
 
 def slugify(value):
     """
@@ -39,7 +39,7 @@ def prepareBody(body):
     return img_srcs
 
 def main(filename):
-    imgs_dir=os.path.normpath(base_dir + '/images')
+    imgs_dir=os.path.normpath('images')
     #target_file=os.path.normpath(target_dir+'/'+filename)
     
     # Adding namespaces
@@ -87,7 +87,7 @@ def main(filename):
                     filename = imgs_dir + '/' + slugify(img_filename[0]) + '.' + img_filename[2]
                     # print img.decode('utf-8'), "->", filename
                     urlretrieve(img.decode('utf-8'), filename)
-                    replace_images[str(img)] = str(filename)
+                    replace_images[str(img)] = '/static/' + str(filename)
                 except:
                     print "\n unable to download " + img.decode('utf-8')
                     print sys.exc_info()[1]
@@ -97,9 +97,11 @@ def main(filename):
             md = html2text.html2text(content)
             # replacing images links
             for img_url, img_file in replace_images.items():
+                print 'Trying to replace ' + img_url + ' with ' + img_file
                 md = md.replace(img_url, img_file)
         except:
             md = None
+            print sys.exc_info()[1]
         return md
     
     def buidlPost():
@@ -144,6 +146,7 @@ def main(filename):
     suffix = determineSuffix();    
     # Iterating over items
     for item in root.iter('item'):
+        print unicode(item.find('title').text)
         post = buidlPost()
         savePost(post)
 
