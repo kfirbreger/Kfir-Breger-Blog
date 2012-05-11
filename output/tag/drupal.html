@@ -1,0 +1,169 @@
+<!doctype html>
+<!-- https://github.com/paulirish/html5-boilerplate/blob/master/index.html -->
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    
+    <!-- encoding must be specified within the first 512 bytes
+        www.whatwg.org/specs/web-apps/current-work/multipage/semantics.html#charset -->
+    <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame
+        Remove this if you use the .htaccess
+    <meta http-equiv="X-UA-Compatible" content="" -->>
+
+
+    <!-- meta element for compatibility mode needs to be before
+        all elements except title & meta
+        msdn.microsoft.com/en-us/library/cc288325(VS.85).aspx -->
+    <!-- Chrome Frame is only invoked if meta element for
+        compatibility mode is within the first 1K bytes
+        code.google.com/p/chromium/issues/detail?id=23003 -->
+
+    <title>kfirbreger.com</title>
+    <meta name="author" content="Kfir Breger">
+
+    <!--  Mobile viewport optimized: j.mp/bplateviewport -->
+    <meta name="viewport" content="">
+
+    
+    <!-- Place favicon.ico & apple-touch-icon.png
+        in the root of your domain and delete these references -->
+    <link rel="shortcut icon" href="/theme/favicon.ico">
+    <link rel="apple-touch-icon" href="/theme/apple-touch-icon.png">
+    
+
+    
+    <link rel="stylesheet" href="/theme/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/theme/css/bootstrap-responsive.min.css">
+    
+
+    
+    <!-- All JavaScript at the bottom, except for Modernizr which
+        enables HTML5 elements & feature detects
+        <script src="/theme/js/modernizr.foundation.js"></script> -->
+    
+    
+    
+</head>
+<body>
+            
+<section id="content">
+
+<h2>All articles</h2>
+
+
+<ol id="post-list">
+        
+        <li><article class="hentry">    
+                <header> <h2 class="entry-title"><a href=".././2011/12/drupal-7-phantom-block.html" rel="bookmark" title="Permalink to Drupal 7 phantom block">Drupal 7 phantom block</a></h2> </header>
+                <footer class="post-info">
+                    <abbr class="published" title="2011-12-02T11:04:44"> Fri 02 December 2011 </abbr>
+                    <address class="vcard author">By <a class="url fn" href=".././author/Kfir Breger.html">Kfir Breger</a></address>
+                </footer><!-- /.post-info -->
+                <div class="entry-content"> <p>Today I can across an interesting change in the way Drupal 7 handles blocks
+created via modules. In a module I made, I defined a block using the
+<em>hook_block_info</em> and <em>hook_block_view</em>. This block was added to the site's
+front page. After some implementation details changed it became apparent that ...</p> </div><!-- /.entry-content -->
+        </article></li>
+        
+        <li><article class="hentry">    
+                <header> <h2 class="entry-title"><a href=".././2010/07/setting-up-solr-for-drupal-under-tomcat.html" rel="bookmark" title="Permalink to Setting up Solr for Drupal under tomcat">Setting up Solr for Drupal under tomcat</a></h2> </header>
+                <footer class="post-info">
+                    <abbr class="published" title="2010-07-13T08:37:56"> Tue 13 July 2010 </abbr>
+                    <address class="vcard author">By <a class="url fn" href=".././author/Kfir Breger.html">Kfir Breger</a></address>
+                </footer><!-- /.post-info -->
+                <div class="entry-content"> <p>Disclaimer: This method will probably not work for all servers running tomcat,
+it is more a personal guide then a general one. Solr is a "popular, blazing
+fast open source enterprise search platform from the Apache Lucene project".
+Drupal search has traditionally been less then adequate. Using Solr to index ...</p> </div><!-- /.entry-content -->
+        </article></li>
+        
+        <li><article class="hentry">    
+                <header> <h2 class="entry-title"><a href=".././2010/02/getting-session-id-in-drupal-6.html" rel="bookmark" title="Permalink to Getting session ID in Drupal 6">Getting session ID in Drupal 6</a></h2> </header>
+                <footer class="post-info">
+                    <abbr class="published" title="2010-02-25T22:49:22"> Thu 25 February 2010 </abbr>
+                    <address class="vcard author">By <a class="url fn" href=".././author/Kfir Breger.html">Kfir Breger</a></address>
+                </footer><!-- /.post-info -->
+                <div class="entry-content"> <p>Drupal saves its sessions in the sessions table. One can always query they
+table to get the session ID. There is however a faster way. If the user is
+logged it, the session id can be found with the following code:</p>
+<div class="codehilite"><pre><span class="k">global</span> $<span class="n">user</span><span class="p">;</span>
+$<span class="n">user</span><span class="o">-&gt;</span><span class="n">sid</span><span class="p">;</span>
+</pre></div>
+
+
+<p>In any case the session ...</p> </div><!-- /.entry-content -->
+        </article></li>
+        
+        <li><article class="hentry">    
+                <header> <h2 class="entry-title"><a href=".././2010/02/theming-a-form-in-drupal-6.html" rel="bookmark" title="Permalink to Theming a form in Drupal 6">Theming a form in Drupal 6</a></h2> </header>
+                <footer class="post-info">
+                    <abbr class="published" title="2010-02-23T13:07:19"> Tue 23 February 2010 </abbr>
+                    <address class="vcard author">By <a class="url fn" href=".././author/Kfir Breger.html">Kfir Breger</a></address>
+                </footer><!-- /.post-info -->
+                <div class="entry-content"> <p>Form theming in drupal 6 is quite flexible. One of the nicest tricks is the
+ability to theme the form in stages. Calling drupal_render on a part of the
+form will not only return the rendered version of it, but it will also mark
+that part as rendered so that ...</p> </div><!-- /.entry-content -->
+        </article></li>
+        
+        <li><article class="hentry">    
+                <header> <h2 class="entry-title"><a href=".././2010/02/views-2-integration-and-custom-handlers-in-drupal-6.html" rel="bookmark" title="Permalink to Views 2 integration and custom handlers in Drupal 6">Views 2 integration and custom handlers in Drupal 6</a></h2> </header>
+                <footer class="post-info">
+                    <abbr class="published" title="2010-02-10T19:32:46"> Wed 10 February 2010 </abbr>
+                    <address class="vcard author">By <a class="url fn" href=".././author/Kfir Breger.html">Kfir Breger</a></address>
+                </footer><!-- /.post-info -->
+                <div class="entry-content"> <p>As part of a large scale project at work, I needed to create an integration
+between views and a module I was writing. For it to function properly, a
+custom handler was also needed. Unfortunately there was very little
+information to be found about how this must be done. The ...</p> </div><!-- /.entry-content -->
+        </article></li>
+        
+        <li><article class="hentry">    
+                <header> <h2 class="entry-title"><a href=".././2009/08/creating-a-custom-grid-with-views.html" rel="bookmark" title="Permalink to Creating a custom grid with views">Creating a custom grid with views</a></h2> </header>
+                <footer class="post-info">
+                    <abbr class="published" title="2009-08-29T07:50:51"> Sat 29 August 2009 </abbr>
+                    <address class="vcard author">By <a class="url fn" href=".././author/Kfir Breger.html">Kfir Breger</a></address>
+                </footer><!-- /.post-info -->
+                <div class="entry-content"> <p>Views Problem with views grid the three template files plus theme:information
+summary</p> </div><!-- /.entry-content -->
+        </article></li>
+        
+        <li><article class="hentry">    
+                <header> <h2 class="entry-title"><a href=".././2009/05/how-to-truly-disable-drupal-cache.html" rel="bookmark" title="Permalink to How to truly disable drupal cache">How to truly disable drupal cache</a></h2> </header>
+                <footer class="post-info">
+                    <abbr class="published" title="2009-05-29T12:26:05"> Fri 29 May 2009 </abbr>
+                    <address class="vcard author">By <a class="url fn" href=".././author/Kfir Breger.html">Kfir Breger</a></address>
+                </footer><!-- /.post-info -->
+                <div class="entry-content"> <p>Drupal, like most CMSes uses cache intensively to speed things up. In a
+production site that is exactly what you what. However when developing, cache
+can cause you much pain.</p>
+<p>If your an expert in drupal you probably already realized when you need to
+clear the cache in order to ...</p> </div><!-- /.entry-content -->
+        </article></li>
+
+</ol><!-- /#posts-list -->
+<p class="paginator">
+    
+    Page 1 / 1
+    
+</p>
+</section><!-- /#content -->
+
+    
+    <!-- Javascript at the bottom for fast page loading -->
+    
+    <!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if necessary -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.js"></script>
+    <script>window.jQuery || document.write('<script src="js/libs/jquery.min.js">\x3C/script>')</script>
+    
+
+    
+    <script src="/theme/js/bootstrap.js"></script>
+    
+    
+</body>
+</html>

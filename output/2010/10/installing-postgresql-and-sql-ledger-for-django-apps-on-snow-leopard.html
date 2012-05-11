@@ -1,0 +1,154 @@
+<!doctype html>
+<!-- https://github.com/paulirish/html5-boilerplate/blob/master/index.html -->
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    
+    <!-- encoding must be specified within the first 512 bytes
+        www.whatwg.org/specs/web-apps/current-work/multipage/semantics.html#charset -->
+    <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame
+        Remove this if you use the .htaccess
+    <meta http-equiv="X-UA-Compatible" content="" -->>
+
+
+    <!-- meta element for compatibility mode needs to be before
+        all elements except title & meta
+        msdn.microsoft.com/en-us/library/cc288325(VS.85).aspx -->
+    <!-- Chrome Frame is only invoked if meta element for
+        compatibility mode is within the first 1K bytes
+        code.google.com/p/chromium/issues/detail?id=23003 -->
+
+    <title>kfirbreger.com</title>
+    <meta name="author" content="Kfir Breger">
+
+    <!--  Mobile viewport optimized: j.mp/bplateviewport -->
+    <meta name="viewport" content="">
+
+    
+    <!-- Place favicon.ico & apple-touch-icon.png
+        in the root of your domain and delete these references -->
+    <link rel="shortcut icon" href="/theme/favicon.ico">
+    <link rel="apple-touch-icon" href="/theme/apple-touch-icon.png">
+    
+
+    
+    <link rel="stylesheet" href="/theme/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/theme/css/bootstrap-responsive.min.css">
+    
+
+    
+    <!-- All JavaScript at the bottom, except for Modernizr which
+        enables HTML5 elements & feature detects
+        <script src="/theme/js/modernizr.foundation.js"></script> -->
+    
+    
+    
+</head>
+<body>
+    
+    <div id="container">
+        
+        <div id="main" role="main">
+            <header class="banner clearfix">
+                
+    <h1 class="article-title">
+        <a href="" rel="bookmark" title="Permalink to Installing PostgreSQL and Sql-Ledger for Django apps on Snow Leopard">Installing PostgreSQL and Sql-Ledger for Django apps on Snow Leopard</a>
+    </h1>
+
+                
+                <nav>
+                </nav>
+                
+            </header>
+            
+<section id="article">
+    <article>
+        <p>At DOP we started working on a django front end for Sql-Ledger with the idea
+of combining it later on with our ticketing system. Getting it going on my
+MacBook proved to be more challenging then expected. Most of the problems were
+easily solvable, but finding the oplossing proved to be tricky. Therefor I
+have decided to create this simple guide, showing the steps I have taken to
+get everything going. <strong>Step 1: PostgreSQL</strong> You can download a binary
+installer from the <a href="http://www.postgresql.org/download/">PostgreSQL site</a>. It
+will install Postgre to your <code>/Library</code> folder. This should take care of the
+Postgre part. <strong>Step 2: Sql-Ledger</strong> Ledger is written in perl, and requires
+perl to run. Luckily Snow Leopard comes standard with perl. What it does not
+come standard with is the perl binding for PostgreSQL. The following 3
+commands will take care of that: <code>sudo perl -MCPAN -e "install +YAML"</code> YAML is
+not necessary but it can be helpful, and lacking YAML might give you problems
+with DBI. <code>sudo perl -MCPAN -e "install DBI"</code> <code>sudo perl -MCPAN -e "install
+DBD::Pg"</code> This will install the perl binding for PostreSQL. Download Sql-
+Ledger from <a href="http://www.sql-ledger.com/source/sql-ledger-2.8.31.tar.gz">here</a>.
+As of this writing, the latest version is 2.8.31 Unzip and untar the archive
+and follow the instructions in the readme file. I did not manage to build
+using the automated script and had to do everything by hand. There is also
+<a href="http://www.sql-ledger.org/cgi-bin/nav.pl?page=source/mac/howto-
+sql-ledger-osx.html">this page</a> on the ledger page with a somewhat oldish instructions
+for OS X. Once Ledger is tested and it is working, its time to get the python
+binding <strong>Step 3: Python binding</strong> <strong> </strong>The pyhton binding is for PostgreSQL.
+You can get the binding library, called Psycopg2 (don't ask me why) from
+<a href="http://initd.org/psycopg/download/">here</a>. Download and upack it. Installing
+is done by running: <code>python setup.py build</code> <code>sudo python setup.py install</code> If
+you are not able to build it might be a problem with your path. Python is
+trying to link to the PostgreSQL bin files. Try to add it to your path and
+then to build again. And your done. Enjoy (or not) working with Django-Sql-
+Ledger</p>
+    </article>
+    
+    <p>tags:
+        
+            <a href="../.././">django</a>
+        
+            <a href="../.././">guide</a>
+        
+            <a href="../.././">guide</a>
+        
+            <a href="../.././">it</a>
+        
+            <a href="../.././">os x</a>
+        
+            <a href="../.././">postgresql</a>
+        
+            <a href="../.././">python</a>
+        
+            <a href="../.././">sql-ledger</a>
+        
+            <a href="../.././">work</a>
+        
+    </p>
+
+
+    <div class="share">
+        
+    <a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="kfirbreger">Tweet</a>
+    <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+
+    </div>
+</section>
+
+        </div>
+        
+    </div> <!--! end of #container -->
+    <footer>
+        
+        
+    </footer>
+    
+    
+    <!-- Javascript at the bottom for fast page loading -->
+    
+    <!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if necessary -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.js"></script>
+    <script>window.jQuery || document.write('<script src="js/libs/jquery.min.js">\x3C/script>')</script>
+    
+
+    
+    <script src="/theme/js/bootstrap.js"></script>
+    
+    
+</body>
+</html>
