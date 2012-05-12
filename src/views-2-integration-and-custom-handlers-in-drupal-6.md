@@ -39,8 +39,8 @@ changing the form of the message to all messages at once.
 
 The following schema
 
-[![Schema describing the database](/static/images/buzz-db-schema-
-300x213.png)](/static/images/01/buzz-db-schema.png)
+[![Schema describing the database](/images/buzz-db-schema-
+300x213.png)](/images/01/buzz-db-schema.png)
 
 represent how the data is being saved into the database. The database tables
 are built using hook_schema() and hook_install(). The messages are entered

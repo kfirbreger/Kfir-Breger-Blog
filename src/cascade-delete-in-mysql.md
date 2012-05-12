@@ -9,7 +9,7 @@ mention Cascading delete in SQL. In the database schema there are 3 tables
 used to store different objects. As there is a many to many relationship
 between the the objects, there are relation tables.
 
-![Basic database layout](/static/images
+![Basic database layout](/images
 /db-layout.png)
 
 Using cascading delete I can define that if an object is removed from its

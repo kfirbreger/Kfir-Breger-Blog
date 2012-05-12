@@ -9,6 +9,8 @@ THEME = './'
 # /year/month/article
 ARTICLE_PERMALINK_STRUCTURE = ('/%Y/%m/')
 
+ARTICLES_ON_INDEX = 20 # Number of articles to show in the index page
+
 TIMEZONE = "Europe/Amsterdam"
 
 DEFAULT_LANG='en'
@@ -29,4 +31,3 @@ SOCIAL = (
 TWITTER_USERNAME = 'kfirbreger'
 
 DEFAULT_PAGINATION = False
-    

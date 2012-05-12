@@ -5,12 +5,12 @@
     <h1>Archives for {{ SITENAME }}</h1>
     <div class="articles-archives">
     {% set year = 0 %}
-    {% for article in dates %}
+    {% for article in articles %}
         {% if year != article.date.year %}
             {% set year = article.date.year %}
             <h3>{{ year }}</h2>
         {% endif %}
-        <article>
+        <article class='archive'>
             <time datetime="{{ article.date }}" pubdate>
                 <span class="month">{{ article.date.strftime('%B') }}</span>
                 <span class="day">{{ article.date.day }}</span>
