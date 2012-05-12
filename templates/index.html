@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block main %}
+{% for article in articles %}
+    {% if loop.index < ARTICLES_ON_INDEX %}
+    <article class='front'>
+        <h1>
+            <a href="{{ article.url }}">{{ article.title }}</a>
+        </h1>
+        <time datetime="{{ article.date }}" pubdate>
+            <span class="month">{{ article.date.strftime('%B') }}</span>
+            <span class="day">{{ article.date.day }}</span>
+            <span class="year">{{ article.date.year}}</span>
+        </time>
+        {{ article.summary }}
+        {% include 'tag_list.html' %}
+    </article>
+    {% endif %}
+{% endfor %}
+{% endblock %}
