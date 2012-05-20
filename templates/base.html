@@ -22,7 +22,7 @@
         compatibility mode is within the first 1K bytes
         code.google.com/p/chromium/issues/detail?id=23003 -->
 
-    <title>kfirbreger.com</title>
+    <title>Kfir Breger</title>
     <meta name="author" content="Kfir Breger">
 
     <!--  Mobile viewport optimized: j.mp/bplateviewport -->
@@ -31,13 +31,13 @@
     {% block favicons %}
     <!-- Place favicon.ico & apple-touch-icon.png
         in the root of your domain and delete these references -->
-    <link rel="shortcut icon" href="/theme/favicon.ico">
-    <link rel="apple-touch-icon" href="/theme/apple-touch-icon.png">
+    <link rel="shortcut icon" href="/blog/theme/favicon.ico">
+    <link rel="apple-touch-icon" href="/blog/theme/apple-touch-icon.png">
     {% endblock favicons %}
 
     {% block css %}
-    <link rel="stylesheet" href="/theme/css/bootstrap.min.css">
-    <link rel="stylesheet" href="/theme/css/bootstrap-responsive.min.css">
+    <link rel="stylesheet" href="/blog/theme/css/bootstrap.css">
+    <link rel="stylesheet" href="/blog/theme/css/responsive.css">
     {% endblock css %}
 
     {% block headjs %}
@@ -48,6 +48,7 @@
     {% block endhead %}
     {% endblock endhead %}
 </head>
+
 <body>
     {% block content %}
     <div id="container">
@@ -56,7 +57,6 @@
             <header class="banner clearfix">
                 {% block header -%}
                 <h1>Kfir Breger</h1>
-                <h3>Thoughts, talks and rants</h3>
                 {%- endblock header %}
                 {% block nav %}
                 <nav>
@@ -82,7 +82,7 @@
     {% endblock jquery %}
 
     {% block scripts %}
-    <script src="/theme/js/bootstrap.js"></script>
+    <script src="/blog/theme/js/bootstrap.js"></script>
     {% endblock scripts %}
     {% endblock js %}
 </body>

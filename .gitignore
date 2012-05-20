@@ -1,3 +1,4 @@
 wordpress.xml
 *.pyc
 output/*
+static/css/*

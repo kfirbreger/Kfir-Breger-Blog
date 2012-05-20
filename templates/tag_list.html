@@ -1,12 +1,14 @@
 {% if article.tags %}
-    <p>tags:
+    <div class="taglist">
         {% for tag in article.tags %}
-            <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
+            <span>
+                <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>{% if not loop.last %},{% endif %}
+            </span>
         {% endfor %}
-    </p>
+    </div>
 {% endif %}
 {% if PDF_PROCESSOR %}
-    <p>
+    <div class="pdf-link">
         <a href="{{ SITEURL }}/pdf/{{ article.slug }}.pdf">get the pdf</a>
-    </p>
+    </div>
 {% endif %}
