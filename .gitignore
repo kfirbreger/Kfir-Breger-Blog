@@ -2,3 +2,6 @@ wordpress.xml
 *.pyc
 output/*
 static/css/*
+fire_app_log.txt
+Compass instructions.txt
+.sass-cache/*
