@@ -4,4 +4,22 @@
   Import this file using the following HTML or equivalent:
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
 
-@import compass/reset
+/* Compass Reset */
+//@import compass/reset
+/* Compass Typography */
+//@import compass/typography
+
+@import _variables.sass
+@import _heading.sass
+@import _layout.sass
+
+p, li, span, a, pre
+    font-family: $std_serif
+    line-height: $base_line_height
+    font-size: $base_font_size
+
+.taglist a
+    font-family: $std-sans
+
+header time
+    font-size: 0.8em

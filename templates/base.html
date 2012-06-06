@@ -37,7 +37,7 @@
 
     {% block css %}
     <link rel="stylesheet" href="/blog/theme/css/bootstrap.css">
-    <link rel="stylesheet" href="/blog/theme/css/responsive.css">
+    <link rel="stylesheet" media="screen" href="/blog/theme/css/screen.css">
     {% endblock css %}
 
     {% block headjs %}
@@ -55,13 +55,14 @@
         {% block container %}
         <div id="main" role="main">
             <header class="banner clearfix">
-                {% block header -%}
-                <h1>Kfir Breger</h1>
-                {%- endblock header %}
                 {% block nav %}
                 <nav>
+                    <a href="/about">About</a>
+                    <a href="/archives">Archives</a>
                 </nav>
                 {% endblock nav %}
+                {% block header -%}
+                {%- endblock header %}
             </header>
             {% block main %}
             {% endblock main %}
@@ -75,14 +76,14 @@
     {% endblock content%}
     {% block js %}
     <!-- Javascript at the bottom for fast page loading -->
+    <script src="/theme/js/bootstrap.js"></script>
     {% block jquery %}
     <!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if necessary -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.js"></script>
-    <script>window.jQuery || document.write('<script src="js/libs/jquery.min.js">\x3C/script>')</script>
+    <script>window.jQuery || document.write('<script src="/theme/js/libs/jquery.min.js">\x3C/script>')</script>
     {% endblock jquery %}
 
     {% block scripts %}
-    <script src="/blog/theme/js/bootstrap.js"></script>
     {% endblock scripts %}
     {% endblock js %}
 </body>

@@ -1,18 +1,22 @@
 {% extends "base.html" %}
 
-{% block css %}
-{{ super() }}
-<link rel="stylesheet" href="/blog/theme/css/front.css">
-{% endblock %}
-
 {% block main %}
 <section id="articles">
 {% for article in articles %}
     {% if loop.index < ARTICLES_ON_INDEX %}
         <article class="item">
-            <h1 class="article-title">
-                {{ article.title }}
-            </h1>
+            <header>
+                <time datetime="{{ article.date }}" pubdate>
+                    <span class="day">{{ article.date.day }}</span>
+                    <span class="month">{{ article.date.strftime('%B') }}</span>
+                    <span class="year">{{ article.date.year}}</span>
+                </time>
+                <a href="/blog/{{ article.date.year}}/{% if article.date.month < 10 %}0{% endif %}{{ article.date.month}}/{{ article.slug }}.html"> {# TODO: There is a beter way I am sure #}
+                    <h1 class="article-title">
+                        {{ article.title }}
+                    </h1>
+                </a>
+            </header>
             <div class="article-content">
                 {{ article.content }}
             </div>

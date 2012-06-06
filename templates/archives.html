@@ -2,23 +2,22 @@
 
 {% block main %}
 <section id="archives">
-    <h1>Archives for {{ SITENAME }}</h1>
+    <h1>Archives</h1>
     <div class="articles-archives">
     {% set year = 0 %}
     {% for article in articles %}
         {% if year != article.date.year %}
             {% set year = article.date.year %}
-            <h3>{{ year }}</h2>
+            <h2>{{ year }}</h2>
         {% endif %}
         <article class='archive'>
             <time datetime="{{ article.date }}" pubdate>
                 <span class="month">{{ article.date.strftime('%B') }}</span>
                 <span class="day">{{ article.date.day }}</span>
-                <span class="year">{{ article.date.year}}</span>
             </time>
-            <h1>
-                <a href="{{ article.url }}">{{ article.title }}</a>
-            </h1>
+            <a href="{{ article.url }}">
+                <h1>{{ article.title }}</h1>
+            </a>
             {% include 'tag_list.html' %}
         </article>
 {% endfor %}
