@@ -1,6 +1,6 @@
 Title:Bergrace Wageningen
 Date: 2011-03-28 19:36:53
-Tags: bergrace, mtb, race, Race, wageningen, xc, XC
+Tags: bergrace, mtb, race, xc
 
 [![Bergrace - Off the road](/images/logo-300x34.png)](http://bergraceofftheroad.nl)It's a
 leather to seven when the alarm clock goes off. I am however not in need of

@@ -1,6 +1,6 @@
 Title:Cambodian border experience
 Date: 2007-12-07 11:59:37
-Tags: Me, travel
+Tags: travel
 
 Yesterday we crossed the Cambodian border, after falling victim to several
 scams in one ticket. We bought a fairly expansive ticket from Chiang Mai to

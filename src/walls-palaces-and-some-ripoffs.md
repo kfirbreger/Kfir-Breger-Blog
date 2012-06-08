@@ -1,6 +1,6 @@
 Title:Walls, Palaces and some ripoffs
 Date: 2007-10-27 13:29:37
-Tags: Me, travel
+Tags: travel
 
 These last few days have been very impressive. Only after landing in China did
 it sunk in that I am, actually going there. For the first time in my life I

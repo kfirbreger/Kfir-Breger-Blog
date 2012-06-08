@@ -1,6 +1,6 @@
 Title:The Angkor
 Date: 2007-12-21 11:02:59
-Tags: Me, travel
+Tags: travel
 
 There are few places in the world who's name alone is inspiring. The Angkor
 Wat is definitely one of those places. After spending 3 days there I can

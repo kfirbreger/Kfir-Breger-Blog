@@ -6,5 +6,3 @@ Tags: fun, humor, thoughts
 "'The more I study religions the more I am convinced that man never worshipped
 anything but himself.'"
 
-(Via [Quotes of the Day](http://www.quotationspage.com/qotd.html).)
-

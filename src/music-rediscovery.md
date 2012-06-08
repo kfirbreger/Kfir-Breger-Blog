@@ -1,6 +1,6 @@
 Title:music rediscovery
 Date: 2007-07-24 23:00:45
-Tags: Me
+Tags: music
 
 I got an LP from Joni Mitchel, Wild things run fast, from my father a few days
 ago. the name was known to me but i couldn't really come up with any song that

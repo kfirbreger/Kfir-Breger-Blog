@@ -10,5 +10,5 @@ work fine when i just declare them. My biggest problem has been creating a
 window with a scroll bar. that should be that hard, but for some reason I cant
 get it to work. My ScrolledWindow just refuses to show up. So i had settled
 for scaling down the images to fit the display panel. Seeing as the GUI is not
-the main issue for the unversity it will have to do for now
+the main issue for the university it will have to do for now.
 

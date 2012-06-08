@@ -1,6 +1,6 @@
 Title:The Roof of Brabant
 Date: 2011-02-20 16:58:42
-Tags: mtb, tour, Tours, xc
+Tags: mtb, tour, xc
 
 ![TC Nuenen](/images/TCNuenen.gif)
 

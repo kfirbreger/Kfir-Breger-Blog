@@ -1,6 +1,6 @@
 Title:Installing Apache2, PHP5 and MySQL5 on OS X Tiger
 Date: 2009-05-04 21:45:50
-Tags: apache, guide, guide, install, mysql, os x, php, web
+Tags: apache, guide, install, mysql, os x, php, web
 
 Tiger comes bundled with Apache 1.3 and PHP4. While these are still used for
 web development they are defenetly on the way out. For this reason I have

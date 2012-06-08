@@ -1,6 +1,6 @@
 Title:Kellerwald Marathon
 Date: 2011-04-20 14:15:26
-Tags: kellerwald, marathon, Marathon, mtb, race, Race, rwp
+Tags: kellerwald, marathon, mtb, race, rwp
 
 Kellerwald. Opening race of the RWP Marathon cup. Marathons are what I have
 been training for and the main focus for me this season. I was really looking

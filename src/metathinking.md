@@ -1,6 +1,6 @@
 Title:Metathinking
 Date: 2008-04-25 21:10:39
-Tags: ideas, Me
+Tags: ideas
 
 When confronted with some thought provoking subjects my mind has an
 interesting side effect. Unconciounsly, I find myself thinking about the

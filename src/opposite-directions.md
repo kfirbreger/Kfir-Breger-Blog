@@ -1,6 +1,6 @@
 Title:Opposite directions
 Date: 2009-08-28 08:54:47
-Tags: justice scalia, law, stupid, thoughts, thoughts
+Tags: justice scalia, law, stupid, thoughts
 
 You probably heard about justice Scalia of the American supreme court saying
 executing an innocent man is not unlawful because he was found guilty in a

@@ -1,6 +1,6 @@
 Title:Installing Django on Dreamhost
 Date: 2008-05-19 12:29:44
-Tags: django, dreamhost, programming, programming, python, web, web
+Tags: django, dreamhost, programming, python, web
 
 Dreamhost appears on the django site as one of the django friendly hosting
 services. Unfortunately, dreamhost does not officially support django. It does

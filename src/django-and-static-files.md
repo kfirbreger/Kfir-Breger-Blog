@@ -1,6 +1,6 @@
 Title:Django and static files
 Date: 2008-09-26 20:18:18
-Tags: coding, django, programming, python, web, web development
+Tags: coding, django, programming, python, web
 
 After a long break I have resumed my side project in django. Last night I came
 upon a problem. When testing a page outside django, the page was rendered

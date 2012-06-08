@@ -1,6 +1,6 @@
 Title:Installing PostgreSQL and Sql-Ledger for Django apps on Snow Leopard
 Date: 2010-10-15 21:03:09
-Tags: django, guide, guide, it, os x, postgresql, python, sql-ledger, work
+Tags: django, guide, os x, postgresql, python, sql-ledger, work
 
 At DOP we started working on a django front end for Sql-Ledger with the idea
 of combining it later on with our ticketing system. Getting it going on my
