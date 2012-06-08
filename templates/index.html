@@ -6,12 +6,7 @@
     {% if loop.index < ARTICLES_ON_INDEX %}
         <article class="item">
             <header>
-                <time datetime="{{ article.date }}" pubdate>
-                    <span class="day">{{ article.date.day }}</span>
-                    <span class="month">{{ article.date.strftime('%B') }}</span>
-                    <span class="year">{{ article.date.year}}</span>
-                </time>
-                <a href="/blog/{{ article.date.year}}/{% if article.date.month < 10 %}0{% endif %}{{ article.date.month}}/{{ article.slug }}.html"> {# TODO: There is a beter way I am sure #}
+                <a href="{{ SITEURL }}/{{ article.url }}">
                     <h1 class="article-title">
                         {{ article.title }}
                     </h1>

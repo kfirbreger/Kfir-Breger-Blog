@@ -1,6 +1,6 @@
 Title: Better at suffering
 Date: 2012-06-05
-Tags: training, pain,mental
+Tags: training, pain, mental
 
 I need to get better at opting out of suffering. Today I did a pretty intensive power training. For 6 minutes going from zone 4/5a to 5b followed by a 3 min rest and repeat.
 

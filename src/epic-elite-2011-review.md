@@ -1,6 +1,6 @@
 Title:Epic Elite 2011 Review
 Date: 2011-05-18 21:50:06
-Tags: epic, impressions, mtb, Review, review, specialized
+Tags: epic, impressions, mtb, review, specialized
 
 In my hunt for a new bike, the Epic from specialized is high on the list. I
 was lucky enough to secure a test bike from [bikeshop](bikeshop.nl) in
@@ -12,8 +12,9 @@ The [Epic](http://www.specialized.com/zz/en/bc/SBCProduct.jsp?spid=52788&scid=
 1000&scname=Mountain) is Specialized's marathon/xc bike. Quoting Specialized
 website the Epic is:
 
-![2011 Epic Elite](/images/2011
--Epic-Elite.jpg) Whether hammering technical World Cup XC courses or local
+![2011 Epic Elite](/images/2011-Epic-Elite.jpg)
+
+Whether hammering technical World Cup XC courses or local
 trails, the Epic is built to be super light, fast, and efficient for explosive
 climbing ability and nimble handling. With patented FSR and Brain technology,
 the Epic was engineered for the race course but is remarkably adept at
@@ -43,8 +44,7 @@ like a collection of parts. There is a genuine wholeness to it that radiates
 confidence. Generally speaking I like the look of the bike, though the
 heightened bar makes it look less sporty(more on this later).
 
-![Epic in the car](/images/Epic-
-in-the-car.jpg)
+![Epic in the car](/images/Epic-in-the-car.jpg)
 
 ### Zeddam
 
@@ -61,8 +61,7 @@ lot of this has to do with the bike being a full suspension bike. However,
 giving me such a feeling of control and confidence is probably not only do to
 the bike being a fully.
 
-![Epic components](/images/epic-
-components.jpg)
+![Epic components](/images/epic-components.jpg)
 
 The 2x10 system did take some getting used to. I did not feel like I was
 missing gears, but I did need to work more with the front derailleur. For some
@@ -74,8 +73,7 @@ pressure it would just switch fast and quietly. I believe that opting for the
 X9 as a front derailleur would have made changing gears that much more
 enjoyable. The shifters, Shimano SLX, work well.
 
-![Epic brakes](/images/epic-
-brakes.jpg)
+![Epic brakes](/images/epic-brakes.jpg)
 
 Let me finish the group review by talking about the brakes. The bike comes
 equip with Avid Elixir R SL. 160mm at the rear and 180mm at the front(L model.

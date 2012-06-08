@@ -39,8 +39,7 @@ will need some command line work, or some scripting. The following installs
 Apache 2 into /usr/local/sbin/apache2, if you prefer to install into another
 folder change the prefix to that folder. ` curl -O
 http://apache.hippo.nl/httpd/httpd-2.2.11.tar.gz tar xvzf http-2.2.11.tar.gz
-cd http-2.2.11/ ./configure --prefix=/usr/local/sbin/apache2 --enable-
-modules=all --enable-mods-shared=all make sudo make install cd .. ` Before we
+cd http-2.2.11/ ./configure --prefix=/usr/local/sbin/apache2 --enable-modules=all --enable-mods-shared=all make sudo make install cd .. ` Before we
 continue to build PHP there are some extra libraries that are needed. If you
 are not interested in building PHP with GD you can probably skip most of them.
 
@@ -83,14 +82,10 @@ into a different location, change the prefix. ` curl -O
 http://de3.php.net/distributions/php-5.2.9.tar.bz2 tar xjf php-5.2.9.tar.bz2
 cd php-5.2.9/ ./configure --prefix=/usr/local/php5 --with-
 apxs2=/usr/local/sbin/apache2/bin/apxs --with-config-file-scan-
-dir=/usr/local/php5/php.d --with-iconv --with-openssl=/usr/local --with-
-openssl-dir=/usr/local/ssl --with-zlib=/usr --with-gd --with-zlib-dir=/usr
+dir=/usr/local/php5/php.d --with-iconv --with-openssl=/usr/local --with-openssl-dir=/usr/local/ssl --with-zlib=/usr --with-gd --with-zlib-dir=/usr
 --with-xmlrpc --with-iconv-dir=/usr --enable-exif --enable-sqlite-utf8
 --enable-ftp --enable-sockets --enable-dbase --enable-mbstring --with-bz2=/usr
---enable-fastcgi --enable-cgi --enable-zip --with-curl --with-
-mysql=/usr/local/mysql --with-pdo-mysql=/usr/local/mysql --with-libxml-
-dir=shared,/usr/local/php5 --with-jpeg-dir=/usr/local/php5 --with-png-
-dir=/usr/local/php5 --with-freetype-dir=/usr/local/php5 make sudo make install
+--enable-fastcgi --enable-cgi --enable-zip --with-curl --with-mysql=/usr/local/mysql --with-pdo-mysql=/usr/local/mysql --with-libxml-dir=shared,/usr/local/php5 --with-jpeg-dir=/usr/local/php5 --with-png-dir=/usr/local/php5 --with-freetype-dir=/usr/local/php5 make sudo make install
 ` You should now have a ready development system.
 
 ### Finalization
@@ -108,10 +103,8 @@ Apache and PHP (and MySQL) on Mac OS X
 Leopard](http://projects.serenity.de/php/)
 
 [Apache 2 + PHP 5 + MySQL 4 under OS X
-10.3.9](http://www.bioneural.net/2005/04/22/apache-2-php-5-mysql-4-under-mac-
-os-x-1039/)
+10.3.9](http://www.bioneural.net/2005/04/22/apache-2-php-5-mysql-4-under-mac-os-x-1039/)
 
 [Installing Apache, MySQL and PHP on
-Leopard](http://www.klauskomenda.com/archives/2008/10/07/installing-apache-
-mysql-and-php-on-leopard/)
+Leopard](http://www.klauskomenda.com/archives/2008/10/07/installing-apache-mysql-and-php-on-leopard/)
 

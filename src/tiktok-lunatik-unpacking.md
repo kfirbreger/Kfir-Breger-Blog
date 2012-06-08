@@ -31,6 +31,5 @@ And here it is at full glory. I absolutely adore it. The design is brilliant,
 the material feels good and overall it feels like a quality product.
 Definitely a thumbs up.
 
-![IMG 0577](/images/LunaTik-on-
-my-wrist.jpg)
+![IMG 0577](/images/LunaTik-on-my-wrist.jpg)
 

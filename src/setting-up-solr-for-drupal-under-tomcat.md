@@ -19,8 +19,7 @@ tomecat webapps folder which should be `/opt/tomcat/webapps`. when copying the
 file rename it to something other the solr. this will enable you to have
 multiplie solr installations running under one Tomcat container. We will
 assume the app is renamed `new_solr_inst`. If you are in the tomcat root
-folder the command should like like this: `cp /path/to/solr/package/apache-
-solr-1.4.0/apache-solr-1.4.0/example/webapps/solr.war
+folder the command should like like this: `cp /path/to/solr/package/apache-solr-1.4.0/apache-solr-1.4.0/example/webapps/solr.war
 webapps/new_solr_inst.war` Tomcat will pick up the war file and open it
 automatically after a restart. **Step 2:** In the tomcat root folder create a
 folder to hold your Solr configuration and data. `mkdir new_solr_inst` Copy

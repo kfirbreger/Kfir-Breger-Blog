@@ -23,8 +23,7 @@ possible for you to locally install python. I highly recommend it as it will
 enable you to setup the python environment exactly the way you want it, and it
 will make it easier to upgrade to future versions of python. ` cd ~/soft wget
 http://www.python.org/ftp/python/2.5.2/Python-2.5.2.tgz tar xvfz
-Python-2.5.2.tgz cd Python-2.5.2 ./configure --prefix ~/install/dir --enable-
-shared make make install ` Where `~/install/dir` is the directory you want
+Python-2.5.2.tgz cd Python-2.5.2 ./configure --prefix ~/install/dir --enable-shared make make install ` Where `~/install/dir` is the directory you want
 python installed in. I followed dreamhost's [Unix account setup
 guide](http://wiki.dreamhost.com/Unix_account_setup) and installed it under
 run. I recommend you do to, as it is easier to have full control over you
@@ -32,8 +31,7 @@ run. I recommend you do to, as it is easier to have full control over you
 wget http://peak.telecommunity.com/dist/ez_setup.py
 ~/path/to/yourpython/python ez_setup.py ` This will add the `easy_install`
 script which will simplify adding packages to your own python install. The
-final step is adding the new MySQLdb package ` cd ~/soft svn co https://mysql-
-python.svn.sourceforge.net/svnroot/mysql-python/trunk/MySQLdb MySQLdb
+final step is adding the new MySQLdb package ` cd ~/soft svn co https://mysql-python.svn.sourceforge.net/svnroot/mysql-python/trunk/MySQLdb MySQLdb
 easy_install MySQLdb ` This is assuming easy_install is in your PATH. If it is
 not it needs to be added. Your now ready to install django using your very own
 Python installation. That is detailed enough so I will move to two problems I

@@ -1,6 +1,6 @@
 Title:Eiger Challenge
 Date: 2011-08-25 11:20:40
-Tags: marathon, Marathon, mtb, race, Race, sport
+Tags: marathon, mtb, race, sport
 
 This was it, the big one. What I have been looking for all season. Even though
 it is not the last season of the race, and is not included in any cup or
@@ -79,8 +79,7 @@ of climbing on asphalt and I intended to be as efficient as I could be.
 
 ### Start
 
-![Start](/images/eigerchallenge-
-start.jpg)
+![Start](/images/eigerchallenge-start.jpg)
 
 As can be expected the start was a sprint. It does not matter how often I tell
 myself I am not going to sprint at the start, somehow I get carried away and
@@ -182,6 +181,8 @@ folding their tent, and again fear struck me. Was I too slow? did I climb all
 this way just to be disqualified. Luckily, they were early, I still had 15min
 on the time limit.
 
+![The view from Kleine Scheidegg](/images/view-kleine-sheidegg.jpg)
+
 Passing the highest point I knew it was almost all down from here, with 2-3
 short climbs. The way down was fast. At the climbs I took no chances and
 attacked as hard as I could. The course kept going down, and down. Grindelwald
@@ -191,7 +192,5 @@ Up I went. Passing the finish line after 9 hours and 12 seconds. To me, it
 felt like I won the race. After just one year of cycling, I finished this very
 challenging race. Even now, a week later, I still feel like I won.
 
-![The view from Kleine Scheidegg](/images/view-kleine-sheidegg.jpg)
-
-**Update:** Here is the gps tracking of my ride
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='http://app.strava.com/runs/1246490/embed/1e039731703e51e157090fbf5c25386c6af74220'></iframe>
 

@@ -12,8 +12,7 @@ web server's log to see if the files were correctly served. that was an hour
 and a half of trying to figure out why the javascript functions were not
 found. So after smartening up I found out that the javascript files were not
 found. It seemed that django kept looking for them in the wrong location.
-Using the example [here](http://docs.djangoproject.com/en/dev/howto/static-
-files/?from=olddocs) I eventually got it all to working.
+Using the example [here](http://docs.djangoproject.com/en/dev/howto/static-files/?from=olddocs) I eventually got it all to working.
 
 It comes down to this. in the settings.py file there is a reference to the
 media URL and to the file system path to the media directory. Adding the

@@ -3,11 +3,20 @@
 
 AUTHOR = u"Kfir Breger"
 SITENAME = u"kfirbreger.com"
-SITEURL = '/'
+SITEURL = '/blog'
 
 THEME = './'
+DEFAULT_CATEGORY = 'Uncategorized'
+
 # /year/month/article
-ARTICLE_PERMALINK_STRUCTURE = ('/%Y/%m/')
+ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}.html'
+ARTICLE_LANG_URL = '{date:%Y}/{date:%m}/{slug}-{lang}.html'
+PAGE_URL = '{date:%Y}/{date:%m}/pages/{slug}.html'
+PAGE_LANG_URL = '{date:%Y}/{date:%m}/pages/{slug}-{lang}.html'
+ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}.html'
+ARTICLE_LANG_SAVE_AS = '{date:%Y}/{date:%m}/{slug}-{lang}.html'
+PAGE_SAVE_AS = '{date:%Y}/{date:%m}/pages/{slug}.html'
+PAGE_LANG_SAVE_AS = '{date:%Y}/{date:%m}/pages/{slug}-{lang}.html'
 
 ARTICLES_ON_INDEX = 20 # Number of articles to show in the index page
 

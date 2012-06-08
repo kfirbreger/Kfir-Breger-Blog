@@ -31,8 +31,7 @@ hcontextid=89fe9bf5731fed92dc11e2f0f706639a&currentPage=5&currentRow=8) 2-4
 persoon kamers. 5 nachten (1 te veel dus), 129 voor 4 persoon kamer, 137 voor
 3 persoon en 152 voor 2 persoon kamers. De lifts zijn 3.5 km. De skibus halte
 is 150m van de hotel. Liching is tot 1700, dus weer weet niet hoe sneeuwzeker
-hij is [Geen idee de naam](http://feratel-
-finkenberg.concentrator.net/show_hotelroom.asp?ID=79005987) Deze is ook in een
+hij is [Geen idee de naam](http://feratel-finkenberg.concentrator.net/show_hotelroom.asp?ID=79005987) Deze is ook in een
 grote gebied, goedkoop, met eigen douche en wc, en lijkt mee de beste optie.
 Frankrijk -------- [Résidence La Crête du Berger](http://winter.bizztravel.nl/
 site/?fh_secondid=9156&HBX_PK=wintersport&fh_view_size=24&rkey=0.5539571821847
