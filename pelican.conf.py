@@ -7,6 +7,9 @@ SITEURL = ''
 
 THEME = './'
 DEFAULT_CATEGORY = 'Uncategorized'
+PAGE_EXCLUDES = ('draft')
+PAGE_DIR = ('pages')
+ARTICLE_DIR = ('src')
 
 # /year/month/article
 ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}.html'
