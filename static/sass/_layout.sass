@@ -4,6 +4,7 @@
 =centralized
     margin-left: auto
     margin-right: auto
+    display: block
 
 nav
     margin: 1.5em
@@ -11,8 +12,16 @@ nav
         margin-right: 1em
 
 article img
-    text-align: center
     +centralized
+    margin-top: 0.25em
+    margin-bottom: 0.25em
+    border: $img_border
+
+iframe
+    +centralized
+    margin-top: 1em
+    margin-bottom: 1em
+    
 
 #container
     +centralized

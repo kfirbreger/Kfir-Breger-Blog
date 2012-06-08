@@ -31,7 +31,7 @@
     {% block favicons %}
     <!-- Place favicon.ico & apple-touch-icon.png
         in the root of your domain and delete these references -->
-    <link rel="shortcut icon" href="{{ SITEURL }}/theme/favicon.ico">
+    <link rel="shortcut icon" href="{{ SITEURL }}/theme/favicon.png">
     <link rel="apple-touch-icon" href="{{ SITEURL }}/theme/apple-touch-icon.png">
     {% endblock favicons %}
 
@@ -57,6 +57,7 @@
             <header class="banner clearfix">
                 {% block nav %}
                 <nav>
+                    <a href="{{ SITEURL }}"><img src="{{ SITEURL }}/theme/img/logok-color-64.png"></a>
                     <a href="http://kfirbreger.com">About</a>
                     <a href="{{ SITEURL }}/archives">Archives</a>
                 </nav>
