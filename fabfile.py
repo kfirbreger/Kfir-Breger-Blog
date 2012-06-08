@@ -5,7 +5,7 @@ import os
 PROD = 'blog.kfirbreger.com'
 DEST_PATH = '/home/kbreger/www/blog.kfirbreger.com'
 ROOT_PATH = os.path.abspath(os.path.dirname(__file__))
-DEPLOY_PATH = os.path.join(ROOT_PATH, 'deploy')
+DEPLOY_PATH = os.path.join(ROOT_PATH, 'output')
 
 def clean():
     local('rm -rf ./output/*')
@@ -13,6 +13,8 @@ def clean():
 def regen():
     clean()
     local('pelican . -s pelican.conf.py')
+    # Cleaning the less files from the output
+    local('rm -rf ./output/theme/sass')
 
 # @hosts(PROD)
 # def publish():

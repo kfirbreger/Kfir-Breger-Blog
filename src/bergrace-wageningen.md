@@ -26,7 +26,7 @@ insane start sprint so my start position was good, but for me not ideal. I was
 considering what to do to get out of the way as fast as I can when we were
 told one minute to start. [caption id="attachment_16" align="alignnone"
 width="512" caption="The start lineup at the front, with me right in the
-middle"]![](/images/IMG_38591.jpg)[/caption] 30 seconds, 15 seconds, And
+middle"]![](/images/img_38591.jpg)[/caption] 30 seconds, 15 seconds, And
 off we were. It was indeed crazy, people zipping by left and right, shoving
 their bikes in front of me. I couldn't resist and started sprinting as well,
 after about 100m I was able to reason with myself and calm down. Then I
@@ -69,7 +69,7 @@ a great finish managed to stay just ahead of Bas. While cheering my mates
 there was a big crash right in front of me. Two rides, and flying bicycles.
 Sometimes things can get ugly. [caption id="attachment_21" align="alignnone"
 width="456" caption="Me and some other spectators, helping crashed
-riders"]![](/images/IMG_4920.jpg)[/caption] Using the bike to get to work
+riders"]![](/images/img_4920.jpg)[/caption] Using the bike to get to work
 is a great way for me to train. However just cycling there is definitely not
 enough. I need to add intervals to that ride as to improve my speed. My next
 race is the Kellerwald marathon, the first RWP Cup race and I plan on
