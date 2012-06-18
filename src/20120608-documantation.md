@@ -1,5 +1,5 @@
 Title: Going Static
-Date: 2012-06-08 22:17
+Date: 2012-06-08
 tags: pelican, python
 
 All the cool ids are doing it!
