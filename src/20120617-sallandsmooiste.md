@@ -2,7 +2,6 @@ Title: Sallands Mooiste
 Date: 2012-06-18
 Tags: mtb, tour
 
-#Sallands Mooiste
 Its good to have friends to ride with. In increases the fun of the ride exponentially, its fun to talk about the ride afterwards, and also, it helps you in finding new rides. This was the case with Sallands Mooiste. For the non dutch, Sallands is a nature reserve area on the east of the Netherlands. It's quite beautiful, and, important for mountain bikers, not flat. Marcelo picked up that there was a mountain bike tour being organized there. Normally most of the area is off limit to mountain bikers so this was a great chance to ride in a lot of places you normally wouldn't be allowed to (which is to me always part of the allure of races and tours). With the added bonus of being able to sleep at a relative's right next to the start this was looking very promising.
 
 [![Sallands Mooiste](/images/sallandsmooiste.gif)](http://sallandsmooiste.nl)
@@ -13,6 +12,6 @@ We started off at an easy pace. The idea was to go easy the first 30 minutes, ge
 
 We were riding on the dirt path next to the paved bicycle road. If you go mountain biking, you should pick as much dirt as you can. At least that is how I look at it. Anyway, the  turn was only marked from the bicycle path and so we missed it. Luckily we came across another group that was heading back because they also missed it, and so it only cost us a little bit of time. After a few more minutes in the open we got into the woods. The route was chosen quite well, zigzagging through a lot of single tracks, and small paths. After just a little over an hour of riding we got the the feeding station. The local band was planing there (nice touch) and there was some food and drink. What I did see for the first time was food that was offered for sale. those apple cakes looked quite good, but we had no money with us, so we had to settle for our Power Bars.
 
-![Kfir at the Sallands Mooiste](sallandsmooiste-k.jpg)
+![Kfir at the Sallands Mooiste](/images/sallandsmooiste-k.jpg)
 
 The second hour was even more fun. The singletracks got a bit more technical, there were more climbs, and overall it had almost an Ardennes feeling to it. I was hammering it on the climbs and descends, just having a good time enjoying the ride. It took us a bit more to finish the second 20km, By the time we left for the last 15 km, we were busy for two and a half hours. We did get to hear by the second stop that the idea for next year is to have a combo road and mtb tour. Saturday a road ride, followed by the MTB on the sunday. Both Marcelo and I really liked the idea. about 3 km before Haarle we got out of the woods and into open farmland. Just before entering Haarle there was  nice touch. A ramp ridding up to the back of a truck, with a staircase descent on the other side of the truck that led to what is normally a horse obstacle course. You had to go through 2 of the horse obstacles. From there it was half a km to the finish. We putted the bikes down and chilled for a few minutes before heading home after a very fun and successful day. See you all next year.
