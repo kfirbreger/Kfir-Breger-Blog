@@ -27,9 +27,9 @@ Hyde is by default in your (virtualenv) site-packages. To add an extension, add 
 Hyde by supports markdown out of the box. However it does not support changing the extension. that is, if your file's extension is .md, Hyde will deploy it as a .hd file, even though the content has been alterd to html. The [suffix extension](https://github.com/lepture/hyde.ext/blob/master/plugins/suffix.py) converts file suffixes. It is configurable through the site.yml
 
 ### Content
-Hyde takes your content and generates static html from it. In this section I will try, to thebest of my knowledge to explain how the generation of content works. 
+Hyde takes your content and generates static html from it. In this section I will try, to the best of my knowledge to explain how the generation of content works. 
 #### Location
-Content goes into the content folder. Generally speaking hyde will, unless otherwise instructed, render each file in the content folder as its own html page. Hyde emulates the folder construction in the content folder for the actual website. So, fo instance if your content folder looks like this:
+Content goes into the content folder. Generally speaking hyde will, unless otherwise instructed, render each file in the content folder as its own html page. Hyde emulates the folder construction in the content folder for the actual website. So, for instance, if your content folder looks like this:
 
     -content
     --about.md
@@ -92,13 +92,13 @@ Marks are used like jinja macros with the - sign for start and end, i.e.
 For an image mark
 
 ####Creating  a list
-There are several lists which any blog needs to generate. Some of these lists will be used to create pages just for them. However since the documentation ws so lacking I was unable to find a way to do this the wy I wanted
+There are several lists which any blog needs to generate. Some of these lists will be used to create pages just for them. However since the documentation was so lacking I was unable to find a way to do this the way I wanted
 
 ###Giving up
 At was at this point after investing hours, that I gave up on hyde. It looks great, and I am sure that it can do what I want. However lack of documentation makes it really hard to work with. I decided this already took to much of my time and so went to look elsewhere.
 
 ##Blacksmith
-It was time to try something completely different. [Blacksmith](http://blog.nodejitsu.com/introducing-blacksmith) is a node.js based static engine create by [nodejitsu](http://nodejitsu.com). It all looked very promissing, until I saw that each post needs to have its own directory and that it has 1 file for the content and a json file for the header. For me that was just to much.
+It was time to try something completely different. [Blacksmith](http://blog.nodejitsu.com/introducing-blacksmith) is a node.js based static engine create by [nodejitsu](http://nodejitsu.com). It all looked very promising, until I saw that each post needs to have its own directory and that it has 1 file for the content and a json file for the header. For me that was just to much.
 
 ##Pelican
 I was close to give up and stick to wordpress when I can across [Pelican](http://pelican.readthedocs.org/en/latest/). Written in python, and with great documentation, it was just what I needed. The docs are, in fact, so good that I really don't need to write any guide or about how I finally made the change. I will tell you this tough, it took me all of 3 hours, including importing the content from wordpress. Pelican is elegant, easy to use, well documented and it renders the markdown files quite fast. All I was looking for.
