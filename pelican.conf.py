@@ -3,7 +3,7 @@
 
 AUTHOR = u"Kfir Breger"
 SITENAME = u"kfirbreger.com"
-SITEURL = ''
+SITEURL = 'blog.kfirbreger.com'
 
 THEME = './'
 DEFAULT_CATEGORY = 'Uncategorized'
