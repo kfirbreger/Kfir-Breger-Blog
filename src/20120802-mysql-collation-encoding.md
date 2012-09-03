@@ -28,6 +28,10 @@ This should have made Mysql use utf8 unicode for encoding en collation. To test 
 
 You should see all utf8 and unicode.
 
-With that done, I was expecting the import to work correctly. Yet it did not. I was still getting the duplicate key error. Digging some more into the Mysql documentation I found the page about [create table and encoding](http://dev.mysql.com/doc/refman/5.0/en/charset-table.html). Looking at the dump, the charset was indeed specified as utf-8, without collation specification. So even though the *default* setting for the server was set correctly, each table was made with collation **utf8_general_ci**. The solution was to either remove the charset directive or add a collation directive to each table creation query. Being a believer of **Explicit is better then Implicit** I chose to add the collation directive. The import now works properly.
+With that done, I was expecting the import to work correctly. Yet it did not. I was still getting the duplicate key error. Digging some more into the Mysql documentation I found the page about [create table and encoding](http://dev.mysql.com/doc/refman/5.0/en/charset-table.html). Looking at the dump, the charset was indeed specified as utf-8, without collation specification. So even though the *default* setting for the server was set correctly, each table was made with collation **utf8_general_ci**. The solution was to either remove the charset directive or add a collation directive to each table creation query. Being a believer of **Explicit is better then Implicit** I chose to add the collation directive utilizing the awesomeness of vim[^vim]. The import now works properly.
+
+
 
 [^cnf]: The max_allowed_packet has nothing to do with encoding, so feel free to ignore it.
+
+[^vim]: If you must know this is the vim command I used: :%s/DEFAULT CHARSET=utf8/DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci/g
