@@ -23,3 +23,5 @@ Unfortunately, I did. I got all of 300m into the fourth lap when I hit the first
 ![Lunteren 2012](/images/20120902-lunteren-bergrace.jpg)
 
 Funny thing is, I'm happy with that. You see, I finally got to the point where I could push myself to the limit. I never quite managed to until now. I always kept something in reserve, not collapsing on the finish line. Looking back at my heart rate data, my average is just a little under my lactic threshold. I never ever raced so close to it. Now all I need to do is get fast, the not easy part is under control.
+
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='http://app.strava.com/runs/20604642/embed/e20c06dafca917f39ae54e5dcc8a219488e456d1'></iframe>

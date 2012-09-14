@@ -23,6 +23,10 @@ def regen():
 def publish():
     local("rsync -haz --size-only --exclude '*/.DS_Store' output/ spilotro.dreamhost.com:/home/kbreger/www/blog.kfirbreger.com")
 
+def republish():
+    regen()
+    publish()
+
 # @hosts(PROD)
 # def publish():
 #     regen()
