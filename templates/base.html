@@ -27,7 +27,7 @@
 
     <!--  Mobile viewport optimized: j.mp/bplateviewport -->
     <meta name="viewport" content="">
-
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="http://blog.kfirbreger.com/feeds/all.atom.xml">
     {% block favicons %}
     <!-- Place favicon.ico & apple-touch-icon.png
         in the root of your domain and delete these references -->
@@ -36,7 +36,7 @@
     {% endblock favicons %}
 
     {% block css %}
-    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/bootstrap.css">
+    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/bootstrap.min.css">
     <link rel="stylesheet" media="screen" href="{{ SITEURL }}/theme/css/screen.css">
     {% endblock css %}
 
