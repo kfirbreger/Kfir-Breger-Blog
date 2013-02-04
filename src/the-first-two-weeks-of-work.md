@@ -1,6 +1,6 @@
 Title:The first two weeks of work
 Date: 2008-03-17 12:44:24
-Tags: Me, work
+Tags: work
 
 It has now been two weeks since I started working so I figured it might be a
 good time for a post about how things are. Before I started working all I

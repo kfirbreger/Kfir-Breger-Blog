@@ -27,16 +27,16 @@
 
     <!--  Mobile viewport optimized: j.mp/bplateviewport -->
     <meta name="viewport" content="">
-
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="http://blog.kfirbreger.com/feeds/all.atom.xml">
     {% block favicons %}
     <!-- Place favicon.ico & apple-touch-icon.png
         in the root of your domain and delete these references -->
-    <link rel="shortcut icon" href="{{ SITEURL }}/theme/favicon.ico">
+    <link rel="shortcut icon" href="{{ SITEURL }}/theme/favicon.png">
     <link rel="apple-touch-icon" href="{{ SITEURL }}/theme/apple-touch-icon.png">
     {% endblock favicons %}
 
     {% block css %}
-    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/bootstrap.css">
+    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/bootstrap.min.css">
     <link rel="stylesheet" media="screen" href="{{ SITEURL }}/theme/css/screen.css">
     {% endblock css %}
 
@@ -57,8 +57,9 @@
             <header class="banner clearfix">
                 {% block nav %}
                 <nav>
+                    <a href="{{ SITEURL }}"><img src="{{ SITEURL }}/theme/img/logok-color-64.png"></a>
                     <a href="http://kfirbreger.com">About</a>
-                    <a href="{{ SITEURL }}/archives">Archives</a>
+                    <a href="{{ SITEURL }}/archives.html">Archives</a>
                 </nav>
                 {% endblock nav %}
                 {% block header -%}
@@ -76,6 +77,21 @@
     {% endblock content%}
     <!-- Javascript at the bottom for fast page loading -->
     {% block js %}
+    {% block analytics %}
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-22142177-5']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+    {% endblock %}
     {% block jquery %}
     <!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if necessary -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>

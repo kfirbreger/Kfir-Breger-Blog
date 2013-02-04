@@ -1,6 +1,6 @@
 Title:Bye Bye Hong Kong, Hello Ko Tao
 Date: 2007-11-17 05:35:19
-Tags: Me, travel
+Tags: travel
 
 It is not often that I feel as though my words are not enough, yet this is
 exactly how I feel when I try to tell someone about Hong Kong. To describe

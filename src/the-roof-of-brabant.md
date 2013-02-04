@@ -1,6 +1,6 @@
 Title:The Roof of Brabant
 Date: 2011-02-20 16:58:42
-Tags: mtb, tour, Tours, xc
+Tags: mtb, tour, xc
 
 ![TC Nuenen](/images/TCNuenen.gif)
 
@@ -22,7 +22,7 @@ training has only made me slower. After getting home and thinking more about
 it I tend to think that I was so slow more thanks to the fact that it was 90%
 mud more then that training has made me slow. It was also a good wake up call
 
-![Yours truely at the tour](/images/IMG_5132.jpg)
+![Yours truely at the tour](/images/img_5132.jpg)
 
 Not knowingly it seems I was expecting after just 8 months of training to be
 as fast as the leading group. Somehow, in my subconscious, I got myself

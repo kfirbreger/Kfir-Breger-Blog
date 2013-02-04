@@ -1,6 +1,6 @@
 Title:Grand Raid Godefroy
 Date: 2011-10-09 16:17:15
-Tags: marathon, Marathon, mtb, race
+Tags: marathon, mtb, race
 
 Starting this season I had two target. Finish the Eiger Challenge and finish a
 marathon at the top 50%. Last month I finished the Eiger Challenge. As I

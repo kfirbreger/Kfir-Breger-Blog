@@ -1,6 +1,6 @@
 Title:The Terra cota army
 Date: 2007-11-06 03:41:48
-Tags: Me, travel
+Tags: travel
 
 The reason we actually came to Xi'an was to view the terra cota army.
 Yesterday we finally did it. The sight of it has left us amazed. The terra

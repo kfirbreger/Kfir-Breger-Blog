@@ -1,6 +1,6 @@
 Title:The finer points of respondsToSelector
 Date: 2011-05-27 13:46:33
-Tags: cocoa, os x, programming, programming, work
+Tags: cocoa, os x, programming, work
 
 Cocoa's object model is something I really like. Coming from Java, being able
 to declare a property and have the getters and setters auto generated is

@@ -1,6 +1,6 @@
 Title:Weekend in London
 Date: 2009-01-27 16:50:37
-Tags: London, Me, travel, travel
+Tags: London, travel
 
 London has always been one of my favorite cities. Just being there makes me
 feel slightly happier. The street names, lots of them with a meaning of their

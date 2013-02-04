@@ -1,6 +1,6 @@
 Title:Obertauern
 Date: 2011-03-12 16:27:42
-Tags: austria, Snow, snow, snowboard
+Tags: austria, snow, snowboard
 
 Obertauern, the powder bowl of Austria! Boy oh boy was I looking forward to
 our week there. For two years now I was planning on going there. Always had to

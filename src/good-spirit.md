@@ -1,6 +1,6 @@
 Title:Good Spirit
 Date: 2007-08-01 17:28:55
-Tags: Me, programming
+Tags: programming
 
 The last few days I have been making great progress on my thesis. Things are
 finally starting to fall into their place and the pace is great. I managed to

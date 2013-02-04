@@ -1,6 +1,6 @@
 Title:Branch'em and Tag'em
 Date: 2011-04-13 13:47:50
-Tags: branching, guide, guide, svn, tags, version control, work
+Tags: branching, guide, svn, tags, version control, work
 
 Version control is one of those essential programming tools that, when first
 coming across its not immediately clear how beneficial it is, but after using

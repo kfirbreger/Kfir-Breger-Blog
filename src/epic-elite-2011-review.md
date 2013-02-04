@@ -12,7 +12,7 @@ The [Epic](http://www.specialized.com/zz/en/bc/SBCProduct.jsp?spid=52788&scid=
 1000&scname=Mountain) is Specialized's marathon/xc bike. Quoting Specialized
 website the Epic is:
 
-![2011 Epic Elite](/images/2011-Epic-Elite.jpg)
+![2011 Epic Elite](/images/2011-epic-elite.jpg)
 
 Whether hammering technical World Cup XC courses or local
 trails, the Epic is built to be super light, fast, and efficient for explosive
@@ -44,7 +44,7 @@ like a collection of parts. There is a genuine wholeness to it that radiates
 confidence. Generally speaking I like the look of the bike, though the
 heightened bar makes it look less sporty(more on this later).
 
-![Epic in the car](/images/Epic-in-the-car.jpg)
+![Epic in the car](/images/epic-in-the-car.jpg)
 
 ### Zeddam
 
@@ -108,7 +108,7 @@ full 20% faster on this bike then I was on my Rockhopper. That is a big
 difference on a 25km track. It seems that it not only feels fast, but it is
 actually fast.
 
-![Test bike at Winterswijk](/images/Winterswijk.jpg)
+![Test bike at Winterswijk](/images/winterswijk.jpg)
 
 ### Winterswijk
 

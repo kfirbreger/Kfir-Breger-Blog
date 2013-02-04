@@ -1,6 +1,6 @@
 Title:Back in the 80's
 Date: 2008-08-20 18:06:21
-Tags: 80s, music, music, youtube
+Tags: 80s, music, youtube
 
 At work today I was listening to a classic rock station when "I ran" by A
 Flock of Seagulls came up. It must have been at least 15 years since I last

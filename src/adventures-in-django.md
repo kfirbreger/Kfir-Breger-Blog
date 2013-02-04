@@ -1,6 +1,6 @@
 Title:Adventures in Django
 Date: 2009-01-15 22:21:18
-Tags: coding, django, javascript, jquery, programming, python, web, web development, zencurve
+Tags: coding, django, javascript, jquery, programming, python, web
 
 For a while my django project was set aside for other things. Last week I got
 around to continue working on it. I have made a lot of progress and learned

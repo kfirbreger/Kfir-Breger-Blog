@@ -1,6 +1,6 @@
 Title:Some humor
 Date: 2009-03-04 14:45:16
-Tags: fun, fun, humor, humor
+Tags: fun, humor
 
 While I am working on a longer post, I wanted to post some amusing stuff I
 came across these last few weeks
