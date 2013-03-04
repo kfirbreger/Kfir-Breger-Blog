@@ -11,11 +11,11 @@ My next bet was to create a script element and add it so:
 	script.type = “text/javascript”
 	document.getElementById(‘container’).appendChild(script);
 	
-which didn’t work either. Again, the script was loaded but not executed. Which left me with:
+Unfortubately it didn’t work. Again, the script was loaded but not executed. The only option left was:
 
 	document.write(‘<script src=“http://link/to/google/script”><\/script>’)
 	
-Which both loaded the script and executed it.
+which both loaded the script and executed it.
 
 This all goes to show that sometimes the simplest solution is also the best.
 
