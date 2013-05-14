@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
-AUTHOR = u"Kfir Breger"
-SITENAME = u"kfirbreger.com"
-SITEURL = 'blog.kfirbreger.com'
+AUTHOR = "Kfir Breger"
+SITENAME = "kfirbreger.com"
+SITEURL = 'http://blog.kfirbreger.com'
 
 THEME = './'
 DEFAULT_CATEGORY = 'Uncategorized'
@@ -14,14 +14,18 @@ ARTICLE_DIR = ('src')
 # /year/month/article
 ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}.html'
 ARTICLE_LANG_URL = '{date:%Y}/{date:%m}/{slug}-{lang}.html'
-PAGE_URL = '{date:%Y}/{date:%m}/pages/{slug}.html'
-PAGE_LANG_URL = '{date:%Y}/{date:%m}/pages/{slug}-{lang}.html'
+PAGE_URL = 'pages/{slug}.html'
+PAGE_LANG_URL = 'pages/{slug}-{lang}.html'
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}.html'
 ARTICLE_LANG_SAVE_AS = '{date:%Y}/{date:%m}/{slug}-{lang}.html'
 PAGE_SAVE_AS = '{date:%Y}/{date:%m}/pages/{slug}.html'
 PAGE_LANG_SAVE_AS = '{date:%Y}/{date:%m}/pages/{slug}-{lang}.html'
 
-ARTICLES_ON_INDEX = 20 # Number of articles to show in the index page
+ARTICLES_ON_INDEX = 10 # Number of articles to show in the index page
+
+FEED_ATOM = 'feeds/all.atom.xml'
+
+# STATIC_PATHS = ['images', 'css', 'js']
 
 TIMEZONE = "Europe/Amsterdam"
 
@@ -37,9 +41,26 @@ LINKS =  (
 
 # Social widget
 SOCIAL = (
-          ('You can add links in your config file', '#'),
+          ('twitter', 'http://twitter.com/kfirbreger'),
          )
 
-TWITTER_USERNAME = 'kfirbreger'
+#TWITTER_USERNAME = 'kfirbreger'
 
 DEFAULT_PAGINATION = False
+
+PLUGIN_PATH = '/Users/kfir/venvs/blog/pelican-plugins'
+PLUGINS = ['sitemap',]
+
+SITEMAP = {
+    'format': 'xml',
+    'priorities': {
+        'articles': 0.5,
+        'indexes': 0.5,
+        'pages': 0.5
+    },
+    'changefreqs': {
+        'articles': 'daily',
+        'indexes': 'daily',
+        'pages': 'monthly'
+    }
+}

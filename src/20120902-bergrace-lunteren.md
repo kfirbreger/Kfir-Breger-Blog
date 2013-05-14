@@ -20,7 +20,7 @@ It was frustrating. I was pushing myself very hard and yet I was lapped by peopl
 
 Unfortunately, I did. I got all of 300m into the fourth lap when I hit the first climb and my legs exploded. I could cycle, walk, stand, sit or any other body position. It just hurt as hell. After a few minutes the pain got back down to tolerable levels and I could walk back to the start area. I was done. My first ever DNF because of physical breakdown.
 
-![Lunteren 2012](/images/20120902-lunteren-bergrace.jpg)
+![Lunteren 2012](/static/images/20120902-lunteren-bergrace.jpg)
 
 Funny thing is, I'm happy with that. You see, I finally got to the point where I could push myself to the limit. I never quite managed to until now. I always kept something in reserve, not collapsing on the finish line. Looking back at my heart rate data, my average is just a little under my lactic threshold. I never ever raced so close to it. Now all I need to do is get fast, the not easy part is under control.
 

@@ -9,7 +9,7 @@ This is the real deal. Mountain biking in actual mountains. And there are few
 places in the world with as famous, or beautiful, mountains as Berner
 Oberland.
 
-![Eiger Trail](/images/eigertrail.jpg)
+![Eiger Trail](/static/images/eigertrail.jpg)
 
 The original plan was to go 4 men strong. Then Erwin broke his arm, Tim his
 kneecap and Sophia realized she just does not have the time. So here I was on
@@ -37,7 +37,7 @@ bus up to Grosse Scheidegg, thereby skipping the first 1000hm climb, and head
 out from there. On the way up I saw some bikers practicing the climb. Respect
 for whoever climbs that much the dat before a race.
 
-![View from Grosse Scheidegg](/images/grossescheidegg.jpg)
+![View from Grosse Scheidegg](/static/images/grossescheidegg.jpg)
 
 From Grosse Scheidegg the course goes to First, then down and back up.
 Somewhere after First I lost the actual race course. And frankly it was a good
@@ -79,7 +79,7 @@ of climbing on asphalt and I intended to be as efficient as I could be.
 
 ### Start
 
-![Start](/images/eigerchallenge-start.jpg)
+![Start](/static/images/eigerchallenge-start.jpg)
 
 As can be expected the start was a sprint. It does not matter how often I tell
 myself I am not going to sprint at the start, somehow I get carried away and
@@ -114,7 +114,7 @@ taking its toll on me.
 
 ### Working through it
 
-![Eiger Challenge](/images/eigerchallenge-k1.jpg)
+![Eiger Challenge](/static/images/eigerchallenge-k1.jpg)
 
 The start of the descent from First was super technical, and like most people,
 I walked most of it. I think that with some more riding time on my Liteville I
@@ -148,7 +148,7 @@ climb I was doubting I would make the time limit. I glanced at my watch again.
 6 hours flat. I had a quarter of an hour to go and no idea how much further I
 had to go, and in front of me was 10m, 20% climb. At this point, I gave up.
 
-![Eiger challenge](/images/eigerchallenge-k3.jpg)
+![Eiger challenge](/static/images/eigerchallenge-k3.jpg)
 
 My pace went down, and I was preparing for failure. Then I heard Paula's voice
 in my head telling me how I give up just before it actually matter. "Not this,
@@ -170,7 +170,7 @@ the climb to Kleine Scheidegg.
 
 ### Finishing
 
-![Eiger Challenge](/images/eigerchallenge-k5.jpg)
+![Eiger Challenge](/static/images/eigerchallenge-k5.jpg)
 
 It was another 11km long, 1000hm climb. This one half asphalt, half gravel. I
 half walked the way up I think. I was tired, my legs hurt and I was feeling
@@ -181,7 +181,7 @@ folding their tent, and again fear struck me. Was I too slow? did I climb all
 this way just to be disqualified. Luckily, they were early, I still had 15min
 on the time limit.
 
-![The view from Kleine Scheidegg](/images/view-kleine-sheidegg.jpg)
+![The view from Kleine Scheidegg](/static/images/view-kleine-sheidegg.jpg)
 
 Passing the highest point I knew it was almost all down from here, with 2-3
 short climbs. The way down was fast. At the climbs I took no chances and

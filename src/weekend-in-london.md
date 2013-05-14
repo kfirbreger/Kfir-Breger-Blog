@@ -10,7 +10,7 @@ immediately recognizable. This visit had a wonderful bonus of having my
 parents visiting it at the same time. Well that, and that the pound is
 historically low.
 
-![darwin-exhibition-home_12310_1.jpg](/images/darwin-exhibition-home-12310-1.jpg)
+![darwin-exhibition-home_12310_1.jpg](/static/images/darwin-exhibition-home-12310-1.jpg)
 
 The year 2009 marks two hundred years to the birth of Darwin and a hundred and
 fifty years since he published his theory of evolution. The Natural History
