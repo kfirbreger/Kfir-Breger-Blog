@@ -22,7 +22,7 @@ Last, even though it is not a specific setup it is true to all queries being tes
 Explain is **the** tool for checking what is going on with your queries. Calling the explain function on your query will show you exactly what MySQL is doing, what indices are used, are any temp tables made etc…
 I cannot emphasise enough how important it is to understand the output syntax explain gives. Mastering it will make optimisation much simpler. Here are some examples:
 
-	EXPLAIN(select column
+	EXPLAIN(select column_name from table_name)
 
 ## Some handy inspections
 Here you will find a collection of inspection queries that you can use to get a better understanding of how the tables are built and where you might improve.
@@ -41,7 +41,7 @@ The later shows a much better overview of the indices and can be very helpful in
 
 	SELECT column_name FROM table_name PROCEDURE ANALYSE()\G;
 
-MySQL will analyse the column and make recommendation on the optimal field type. for instance if the field type can be replaced by an [enum](http://dev.mysql.com/doc/refman/5.5/en/enum.html). The optimal field recommendation can be then used in an alter table query. If for instance MySQL recommends <code>SMALLINT(3) UNSIGNED NOT NULL</code> and the column has a different field type running the following query will change the column to the recommended type[^mysqlDataIntegrity].
+MySQL will analyse the column and make recommendation on the optimal field type.[^procan] for instance if the field type can be replaced by an [enum](http://dev.mysql.com/doc/refman/5.5/en/enum.html). The optimal field recommendation can be then used in an alter table query. If for instance MySQL recommends <code>SMALLINT(3) UNSIGNED NOT NULL</code> and the column has a different field type running the following query will change the column to the recommended type[^mysqlDataIntegrity].
 
 	ALTER TABLE table_name MODIFY COLUMN column_name SMALLINT(3) UNSIGNED NOT NULL;
 
@@ -88,6 +88,8 @@ Done. Oh, you wanted content with that? No, the content was not copied. To copy 
 
 Depending on the size of your table, this can take a while.
 
+
+[^procan]: The MySQL dev site has [good documantion](http://dev.mysql.com/doc/refman/5.0/en/procedure-analyse.html) over the usage of procedure analyse
 
 [^mysqlDataIntegrity]: Scaling up is never an issue, however be careful when scaling down. MySQL **will not give you any warning if altering the table will cause data loss**.
 
