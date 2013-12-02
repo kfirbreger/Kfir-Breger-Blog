@@ -23,7 +23,7 @@ PAGE_LANG_SAVE_AS = '{date:%Y}/{date:%m}/pages/{slug}-{lang}.html'
 
 ARTICLES_ON_INDEX = 10 # Number of articles to show in the index page
 
-FEED_ATOM = 'feeds/all.atom.xml'
+FEED_ALL_ATOM = 'feeds/all.atom.xml'
 
 # STATIC_PATHS = ['images', 'css', 'js']
 
