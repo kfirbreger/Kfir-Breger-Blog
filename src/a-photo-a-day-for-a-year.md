@@ -5,7 +5,7 @@ Tags: 365, fun, Me, Me, thoughts, work
 [caption id="attachment_123" align="alignleft" width="225" caption="The sun
 reflecting on the Hogelandsekerk as seen from Aharale & Geiske\'s
 window"]![The sun reflecting on the Hooglandsekerk as seem from Aharale &
-Geiske's window](/static/images/img_0034-225x300.jpg)[/caption]A few days ago I came
+Geiske's window](/images/img_0034-225x300.jpg)[/caption]A few days ago I came
 upon this idea and I really liked it. Each day, one photo, with one or two
 sentences, for a whole year. It helps you remember each and every day in that
 year, while making you a better photographer. I found this picture to be a
