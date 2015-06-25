@@ -9,8 +9,7 @@ mention Cascading delete in SQL. In the database schema there are 3 tables
 used to store different objects. As there is a many to many relationship
 between the the objects, there are relation tables.
 
-![Basic database layout](
-/db-layout.png)
+![Basic database layout](/blog/images/db-layout.png)
 
 Using cascading delete I can define that if an object is removed from its
 table, all relation tables entries with that object id are also removed. Quite
