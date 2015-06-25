@@ -2,7 +2,7 @@ Title:Bergrace Wageningen
 Date: 2011-03-28 19:36:53
 Tags: bergrace, mtb, race, xc
 
-[![Bergrace - Off the road](/images/logo-300x34.png)](http://bergraceofftheroad.nl)It's a
+[![Bergrace - Off the road](/logo-300x34.png)](http://bergraceofftheroad.nl)It's a
 leather to seven when the alarm clock goes off. I am however not in need of
 it's alarm. I am already wide awake. Today, Sunday the 27 of march 2011, is my
 first race. Ever. I spent Saturday evening with Bas preparing my bike for the
@@ -26,21 +26,21 @@ insane start sprint so my start position was good, but for me not ideal. I was
 considering what to do to get out of the way as fast as I can when we were
 told one minute to start. [caption id="attachment_16" align="alignnone"
 width="512" caption="The start lineup at the front, with me right in the
-middle"]![](/images/img_38591.jpg)[/caption] 30 seconds, 15 seconds, And
+middle"]![](/img_38591.jpg)[/caption] 30 seconds, 15 seconds, And
 off we were. It was indeed crazy, people zipping by left and right, shoving
 their bikes in front of me. I couldn't resist and started sprinting as well,
 after about 100m I was able to reason with myself and calm down. Then I
 sprinted again, then slowed, and back to sprint. It went like this for about 5
 min. I was no longer being passed constantly and could calm myself into a
 normal tempo. [caption id="attachment_17" align="alignnone" width="384"
-caption="Geting into my own tempo"]![](/images/P32788571.jpg)[/caption] Getting my head straight I
+caption="Geting into my own tempo"]![](/P32788571.jpg)[/caption] Getting my head straight I
 focused on the trail. There was sand, lots of sand, at every corner. Good for
 practice but a kill for my flow. Then all of a sudden I was finished with the
 first round. I glance at my watch, and see I did it in just over 14 minutes.
 Damn that's fast I think to myself. Average was suppose to be 18 minutes.
 Little did I know the first round is somewhat shorter. [caption
 id="attachment_18" align="alignnone" width="384" caption="Climbing
-up"]![](/images/P3279031.jpg)[/caption] The round was quite nice. As
+up"]![](/P3279031.jpg)[/caption] The round was quite nice. As
 expected there was very little in the way of climbing, with only one short
 steep climb. That is not to say that the track was flat. The track had a nice
 ascent and descent flow to it which was  very entertaining. Despite all the
@@ -52,7 +52,7 @@ accelerate. Whenever i tried to cycles somewhat faster i was getting really
 tired really quick. Looking back at my round times it took me about an hour to
 warm up and get comfy on the bike. Once there my time started to drop again.
 [caption id="attachment_19" align="alignnone" width="384" caption="Sand and
-big logs made for some tricky cornering"]![](/images/P3279133.jpg)[/caption] Unfortunately it wasn't
+big logs made for some tricky cornering"]![](/P3279133.jpg)[/caption] Unfortunately it wasn't
 enough. Just before the second hour I was taken once more by the leading
 group. This led to me being able to ride only 7 rounds placing me far in the
 back of the field. Crosing the finish line, my legs were feeling tired but my
@@ -69,7 +69,7 @@ a great finish managed to stay just ahead of Bas. While cheering my mates
 there was a big crash right in front of me. Two rides, and flying bicycles.
 Sometimes things can get ugly. [caption id="attachment_21" align="alignnone"
 width="456" caption="Me and some other spectators, helping crashed
-riders"]![](/images/img_4920.jpg)[/caption] Using the bike to get to work
+riders"]![](/img_4920.jpg)[/caption] Using the bike to get to work
 is a great way for me to train. However just cycling there is definitely not
 enough. I need to add intervals to that ride as to improve my speed. My next
 race is the Kellerwald marathon, the first RWP Cup race and I plan on

@@ -18,7 +18,7 @@ I walked barefoot back to the running transition. Luckily it was on grass so I c
 
 About 10 minutes before the start we gathered at the entrance to the water and got a short briefing. The water was quite cold when we got in, colder than it was tuesday when Tim and I swam in the canal. Listening to the advice in the Triathlete Training Bible I settled somewhere at the back and to the side. A few more seconds and then the gun shot.
 
-![Start shot](/images/2013-tri-start.jpg)
+![Start shot](/2013-tri-start.jpg)
 
 ## Swimming
 Even though I was at the back it was still one big mess. People swam over me, I swam over other people. It took a few minutes for everything to calm down. As I expected I was in the back. I was going slow, and not in a straight line. I was in damage control mode. Half way through, I was the last, and by a big margin. about 300m before the finish, I switched over to breaststroke. That's the one swimming style I actually learned as a kid. I managed to pass 2 people just before getting out of the water. At least I wasn't last man out. My swim time was 178 from the 182. Bad.
@@ -36,12 +36,12 @@ The biking part was made of a 10km course we had to lap four times. The first la
 
 ## Running
 
-![Running](/images/2013-tri-running.jpg)
+![Running](/2013-tri-running.jpg)
 I got of the bike and took a step. My stomach exploded in pain. No way I was going to be able to run 10k like this. I walked slowly to my transition spot and took my time changing shoes. I tried to run and had to stop again. To much pain. The thought of dropping out crossed my mind. Just for a second. Enough for me to know I was not quitting no matter what.
 
 I started with the light jog. The pain was there but it was bearable. As I took a gel out of my pocket and slowly started sipping from it. As I got more into the run the stomach pain was getting to more manageable levels. Again it was hard to push with the pain. I was passing people, but not as fast as I had hoped. halfway round 2 I spotted a group of about 8 men about 200m ahead of me. I really wanted to pass them so I sped up. My body would have non of it. My legs protested, as you'd expect, but this time my stomach was supporting them. I was not going to catch them. That broke my spirit and my speed dropped. I just wanted to finish the race. It felt a relief crossing the finish line.
 
-![Finished](/images/2013-tri-finish.jpg)
+![Finished](/2013-tri-finish.jpg)
 
 I finished 144 of 182. Not great. However considering my swimming performance I am not unhappy. The experience was not what I expected. A triathlon is quite different from a duathlon. Swimming really has a big impact on how the race feels. It might be that as I grow in distance that impact will lessen as the percentage of total race time decreases. I will have to wait and see. I learned a lot from this race and I am looking forward to my next triathlon.
 

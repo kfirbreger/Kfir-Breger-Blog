@@ -26,5 +26,5 @@ beach for a few days will be good. On the plane we decided to change a few
 days at the beach to the diving course we were planning on doing anyway. We
 chose Ko Tao as our destination. So here we are now on a tropical isle, about
 to take our first shallow water dive today.
-![map](http://www.bangkokiscool.com/images/hotels/thailand-map.gif)
+![map](http://www.bangkokiscool.com/hotels/thailand-map.gif)
 

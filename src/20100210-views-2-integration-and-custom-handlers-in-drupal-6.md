@@ -1,4 +1,4 @@
-Title:Views 2 integration and custom handlers in Drupal 6
+Title: Views 2 integration and custom handlers in Drupal 6
 Date: 2010-02-10 19:32:46
 Tags: drupal, programming, views2, web, work
 
@@ -39,7 +39,7 @@ changing the form of the message to all messages at once.
 
 The following schema
 
-[![Schema describing the database](/images/buzz-db-schema-300x213.png)](/images/01/buzz-db-schema.png)
+[![Schema describing the database](/buzz-db-schema-300x213.png)](/01/buzz-db-schema.png)
 
 represent how the data is being saved into the database. The database tables
 are built using hook_schema() and hook_install(). The messages are entered

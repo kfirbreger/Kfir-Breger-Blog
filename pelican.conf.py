@@ -3,13 +3,13 @@
 
 AUTHOR = "Kfir Breger"
 SITENAME = "kfirbreger.com"
-SITEURL = 'http://blog.kfirbreger.com'
+SITEURL = 'http://kfirbreger.com/blog'
 
 THEME = './'
 DEFAULT_CATEGORY = 'Uncategorized'
-PAGE_EXCLUDES = ('draft')
-PAGE_DIR = ('pages')
-ARTICLE_DIR = ('src')
+PAGE_EXCLUDES = ['draft']
+PAGE_PATHS = ['pages']
+ARTICLE_PATHS = ['src']
 
 # /year/month/article
 ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}.html'
@@ -48,8 +48,8 @@ SOCIAL = (
 
 DEFAULT_PAGINATION = False
 
-PLUGIN_PATH = '/Users/kfir/venvs/blog/pelican-plugins'
-PLUGINS = ['sitemap',]
+PLUGIN_PATHS = ['/Users/kfir/venvs/blog/pelican-plugins']
+#PLUGINS = ['sitemap',]
 
 SITEMAP = {
     'format': 'xml',

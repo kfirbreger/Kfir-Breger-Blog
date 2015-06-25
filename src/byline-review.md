@@ -2,7 +2,7 @@ Title:Byline review
 Date: 2009-08-29 09:18:43
 Tags: byline, iphone, review, reviews, rss reader
 
-[![Byline icon](/images/bylineicon.png)](http://www.phantomfish.com/byline.html)For a while now I have been
+[![Byline icon](/bylineicon.png)](http://www.phantomfish.com/byline.html)For a while now I have been
 using Google Reader as my rss reader. Managing feeds was simple, though not
 ideal and it was accessible from just about any computer. Better yet, I did
 not need to find way to sync between all my different rss readers, which was
@@ -32,5 +32,5 @@ rss reader app on my computers as well. Readers that sync with Google Reader
 that is. Look at [Phantom Fishs](http://www.phantomfish.com/byline.html)
 Byline page for screenshots and video demo. Or use the link bellow to go
 directly to the app store. ![Get Byline on the app
-store](/images/appstore.png)
+store](/appstore.png)
 

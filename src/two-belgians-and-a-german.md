@@ -21,7 +21,7 @@ marathon. That always makes it easier for me to stay motivated. All that
 beautiful sights around helps me to stay motivated and to remember why I am
 doing this. Also, I had the great pleasure of sharing this weekend with Tim.
 
-![Ardennen Trophy](/images/sportograf-19134144.jpg)
+![Ardennen Trophy](/sportograf-19134144.jpg)
 
 Tim is an experienced marathon rider, having been doing this a few seasons
 now. In the car on the way to the fabulous glamping L'Escargot we had time to
@@ -56,7 +56,7 @@ the last descent. I could see the village just bellow me, I went full speed
 down, passing the 90km sign. "Thats it", I thought, I am finished. I came out
 of the singletrack into the road, and right across into one heck of a climb.
 
-![Ardennen Trophy](/images/sportograf-19151019.jpg)
+![Ardennen Trophy](/sportograf-19151019.jpg)
 
 I really wasn't ready for this. I was expecting to be finished after the
 descent. I was exhausted, and I was not going to give up. So I got my chest
@@ -75,7 +75,7 @@ which, as it turns out was really good.
 
 ## Raid Des Hautes Fagnes
 
-![RDHF](/images/rdhf1.jpg)
+![RDHF](/rdhf1.jpg)
 
 When doing a marathon, doing anything less then the full distance makes me
 feel like I am taking the easy route. So, when registering for the
@@ -97,7 +97,7 @@ early and headed for the starting area. Paula was quite surprised by the
 amount of people there, She was really excited to see that many people, all
 sharing a passion for mountain bike marathons.
 
-![RDHF](/images/rdhf2.jpg)
+![RDHF](/rdhf2.jpg)
 
 Oh yeah, I forgot to mention, for this race I got an Epic 29er as a test bike.
 For me this is the first time riding a 29er, and I was quite curious to see
@@ -114,7 +114,7 @@ different. The route here was a lot more technical. Some parts were completely
 impossible to ride. the rest was never easy. It felt almost relentless in its
 technicality. Loose your concentration and you crash.
 
-![RDHF](/images/rdhf-finish.jpg)
+![RDHF](/rdhf-finish.jpg)
 
 Meanwhile the Epic 29er was proving to be quite an interesting ride. It does
 roll over obstacles a lot easier, which is good. Then again turning it feels
@@ -164,7 +164,7 @@ different setup from the Epic Elite I tested. The rear uses a through axle,
 and uses SRAM X-9 instead of Shimano's XTR. The fork is a RockShox Reba and
 not a SID.
 
-![Epic 29er](/images/epic29er.jpg)
+![Epic 29er](/epic29er.jpg)
 
 Let me take you through the points which are the 29ers advantages:
 
