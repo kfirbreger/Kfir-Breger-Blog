@@ -25,8 +25,6 @@ ARTICLES_ON_INDEX = 10 # Number of articles to show in the index page
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 
-# STATIC_PATHS = ['images', 'css', 'js']
-
 TIMEZONE = "Europe/Amsterdam"
 
 DEFAULT_LANG='en'

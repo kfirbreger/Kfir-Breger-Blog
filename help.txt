@@ -1,0 +1,5 @@
+Build container:
+docker build . -t blog
+Run container:
+docker run --rm --name blog -p 8000:80 blog
+

@@ -4,7 +4,7 @@ Tags: marathon, mtb, race, sport
 
 This was it, the big one. What I have been looking for all season. Even though it is not the last season of the race, and is not included in any cup or championship I am participating in, it was what I had set as my main target. This is the real deal. Mountain biking in actual mountains. And there are few places in the world with as famous, or beautiful, mountains as Berner Oberland.
 
-![Eiger Trail](/blog/images/eigertrail.jpg)
+![Eiger Trail](/images/eigertrail.jpg)
 
 The original plan was to go 4 men strong. Then Erwin broke his arm, Tim his kneecap and Sophia realized she just does not have the time. So here I was on friday 13 of august sitting alone in my car on the way to Switzerland. And I was glowing with joy. Because I was going to Switzerland, to ride my new mountain bike, that I got two days before. In view of the Eiger. This was happiness.
 
@@ -14,7 +14,7 @@ And yet I was also worried. There was a time limit set for the 88 km race. The c
 
 Saturday I wanted to get to know some of the course and also to get to know my new bike. Like I said I just got it two days before so I was still not completely comfortable with it. Looking at the course I decided to take the bus up to Grosse Scheidegg, thereby skipping the first 1000hm climb, and head out from there. On the way up I saw some bikers practicing the climb. Respect for whoever climbs that much the dat before a race.
 
-![View from Grosse Scheidegg](/blog/images/grossescheidegg.jpg)
+![View from Grosse Scheidegg](/images/grossescheidegg.jpg)
 
 From Grosse Scheidegg the course goes to First, then down and back up. Somewhere after First I lost the actual race course. And frankly it was a good thing because I ended up on this awesome singletrack that was keeping me happy for a long while. Eventually it ended and since I could see no more signs for the race, realized I have gone of course. Luckily I spotted someone marking the course further down and he sent back on the right track. After a short hike up the mountain, which I will end up cycling down the day afterwards, I was back on track.
 
@@ -30,7 +30,7 @@ The start zone was downhill, which was good because I got to relax a bit on the 
 
 ### Start
 
-![Start](/blog/images/eigerchallenge-start.jpg)
+![Start](/images/eigerchallenge-start.jpg)
 
 As can be expected the start was a sprint. It does not matter how often I tell myself I am not going to sprint at the start, somehow I get carried away and do sprint the first 500m or so before I get myself under control. I got passed by most of the field right of the start, but I tried not to care. I was here to finish, not to win. The climbing started through Grindelwald and I was settling on a nice pace. We were out of Grindelwald, and I was going with a group I suspected would climb at my speed. Then this guy told me my rear wheel looked kinda empty.
 
@@ -40,7 +40,7 @@ The old man was not in the race, but likes doing the climb with the racers, and 
 
 ### Working through it
 
-![Eiger Challenge](/blog/images/eigerchallenge-k1.jpg)
+![Eiger Challenge](/images/eigerchallenge-k1.jpg)
 
 The start of the descent from First was super technical, and like most people, I walked most of it. I think that with some more riding time on my Liteville I will be able to cycle down such technical terrain. The next few km where fire roads, gravel and some singletrack, all of it beautiful. Then I came to the climb up to Feld. The path up seemed to go on and on. I was already starting to feel the race in my legs and for the first time this race, I stopped and walked some of the part. I came across two kids offering sponges with water to cool of. Here I was on a mountain side, no building in site and these two 6 year old kids are here to help. I was moved.
 
@@ -59,11 +59,11 @@ Putting in the highest gear I had, I was going full speed. A guy from the 55km, 
 
 ### Finishing
 
-![Eiger Challenge](/blog/images/eigerchallenge-k5.jpg)
+![Eiger Challenge](/images/eigerchallenge-k5.jpg)
 
 It was another 11km long, 1000hm climb. This one half asphalt, half gravel. I half walked the way up I think. I was tired, my legs hurt and I was feeling nauseous. Nevertheless, I kept going. on the way up, I even passed someone. Its good that you can see Kleine Scheidegg from about 2/3 of the way as it helps with motivation. As I was approaching I saw the people in the post were folding their tent, and again fear struck me. Was I too slow? did I climb all this way just to be disqualified. Luckily, they were early, I still had 15min on the time limit.
 
-![The view from Kleine Scheidegg](/blog/images/view-kleine-sheidegg.jpg)
+![The view from Kleine Scheidegg](/images/view-kleine-sheidegg.jpg)
 
 Passing the highest point I knew it was almost all down from here, with 2-3 short climbs. The way down was fast. At the climbs I took no chances and attacked as hard as I could. The course kept going down, and down. Grindelwald was in sight! Almost there. Almost. Then I was in Grindelwald. Coming in at the bottom of the village, there was just one climb left, that to the finish. Up I went. Passing the finish line after 9 hours and 12 seconds. To me, it felt like I won the race. After just one year of cycling, I finished this very challenging race. Even now, a week later, I still feel like I won.
 

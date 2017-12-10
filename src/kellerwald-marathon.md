@@ -17,7 +17,7 @@ one big round, it turned out that it is a 40km circuit which you repeat, once,
 twice or 3 times depending on your category. All in all it was enough to get
 me worrying just how well will I be able to race.
 
-![Kellerwald Circuit](/blog/images/kellerwaldround.jpg)
+![Kellerwald Circuit](/images/kellerwaldround.jpg)
 
 Saturday afternoon we left for Gilserberg. As can be expected, things were
 well arranged. There was a place for campers, and for us people with normal
@@ -26,7 +26,7 @@ There was also a bar with beer. It looked like all the locals were there
 drinking and laughing. The atmosphere was good, and that always helps relax.
 at 22:30 we were fast asleep in our sleeping bags.
 
-![Kellerwald Marathong race HQ](/blog/images/racecentral.jpg)
+![Kellerwald Marathong race HQ](/images/racecentral.jpg)
 
 We got up at 6 and had a good, if light breakfast. Around us it was buzzing
 with activity. People doing some final test on the bikes, eating, warming up.
@@ -111,7 +111,7 @@ expecting Sophia to come flying by. She didn't. With most of the race behind
 me I left, feeling physically tired but mentally strong. I got back to the
 start point, and there was no way to continue, only a path to the finish.
 
-![IMG 0713](/blog/images/img_0713.jpg)
+![IMG 0713](/images/img_0713.jpg)
 
 "What the hell?!" I stopped and ask some spectators and they said it was
 finished. "Oh fuck, oh fuck" Was all I could think of. I passed the finish

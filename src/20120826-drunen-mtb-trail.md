@@ -13,7 +13,7 @@ My body was feeling the lack of training. Marijn was flying on the trail effortl
 The harsh trail condition was making short work of our brake pads. After half an hour our breaks were feeling quite week. A quarter of an hour later my rear brake and Marijn's front brake just stopped working. After an hour of cycling we were barely able to break. We decided to skip the second round. The ability to brake is something we consider crucial for mountain biking.
 We were nearly at the en of the route when the weather turned again.
 
-![Wet and Happy](/blog/images/drunen-20120826.jpg)
+![Wet and Happy](/images/drunen-20120826.jpg)
 
 The rain came fast and hard. Within twenty seconds We were completely wet. A small storm was passing us, thunder and all. As true mountain bikers we just kept going. Once your completely soaked, your soaked, so you might as well keep going. We cycled through that rain for ten minutes before reaching the end of the trail. As soon as we reached the car the rain ceased. Two minutes later the sun came out. We changed and  settled at the cafe for a well earned cup of coffee and an apple tart.
 
